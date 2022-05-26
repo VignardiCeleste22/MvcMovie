@@ -1,0 +1,25 @@
+﻿body {
+    background-color: darkcyan;
+    background-image: linear-gradient(#81D4FA,#AED6F1, #D6EAF8 );
+}
+p, h1, h2, div, tbody, table, thead {
+    color: #000033;
+    font-family: Crimson text;
+
+}
+p,tbody,tale,thead{
+    font-size:17px;
+}
+a {
+    color: #145A32;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.table-thead {
+    background-color: #EEEEEE;
+}
+th {
+    color: black;
+}
+
